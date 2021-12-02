@@ -16,7 +16,7 @@ goto :eof
 :payload
 
 ::TheMagic::
-Mode con cols=80 lines=3
+Mode con cols=130 lines=3
 cls & color 0A & echo.
 Set "dosya=DeviceManager.txt"
 echo       Dosya olusturulurken lutfen biraz bekleyin %dosya% ..... (File is creating... Please wait...)
