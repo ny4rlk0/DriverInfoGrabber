@@ -1,4 +1,4 @@
-Title NYA Driver Modeli Bulma Yazilimi
+Title NYA Driver Modeli Bulma Yazilimi Driver Finder
 color a
 @echo off
 cls
