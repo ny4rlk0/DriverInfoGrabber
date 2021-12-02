@@ -1,5 +1,4 @@
 Title NYA Driver Modeli Bulma Yazilimi Driver Finder
-color a
 @echo off
 cls
 if _%1_==_payload_  goto :payload
